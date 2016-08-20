@@ -2,8 +2,10 @@
 The pure JavaScript ultimate datepicker
 <p align=center>
 <i> 24h fix - "quick code hack"</i>
+     <br>
      comment out the following lines in the setHours function:
-        //input -= 12; 	
+     <br>
+        input -= 12; 	
 </p>
 
 <p align="center">
