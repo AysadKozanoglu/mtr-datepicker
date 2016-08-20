@@ -5,7 +5,14 @@ The pure JavaScript ultimate datepicker
      <br>
      comment out the following lines in the setHours function:
      <br>
-        input -= 12; 	
+     <pre>   input -= 12;</pre>
+     <br>
+     set in css at the end:
+     <pre>
+     .mtr-input-radio {
+          display:none;
+     }
+</pre>
 </p>
 
 <p align="center">
