@@ -1,6 +1,6 @@
 # mtr-datepicker [![Build Status](https://travis-ci.org/mtrdesign/mtr-datepicker.svg?branch=master)](https://travis-ci.org/mtrdesign/mtr-datepicker) [![Coverage Status](https://coveralls.io/repos/mtrdesign/mtr-datepicker/badge.svg?branch=master&service=github)](https://coveralls.io/github/mtrdesign/mtr-datepicker?branch=master) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 The pure JavaScript ultimate datepicker
-<p align=center>
+<p align=left>
 <i> 24h fix - "quick code hack"</i>
      <br>
      comment out the following lines in the setHours function:
